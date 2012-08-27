@@ -7,5 +7,8 @@ There is a [vector version][].
 
   [vector version]: https://raw.github.com/ariofrio/ucleads-ucsb-logo/gh-pages/ucleads-ucsb-logo.svg
 
-![](https://raw.github.com/ariofrio/ucleads-ucsb-logo/gh-pages/ucleads-ucsb-logo-blue.png)
+<div style="text-align: center;">
+  <img src="https://raw.github.com/ariofrio/ucleads-ucsb-logo/gh-pages/ucleads-ucsb-logo-blue.png">
+  <img src="https://raw.github.com/ariofrio/ucleads-ucsb-logo/gh-pages/ucleads-ucsb-logo-white.png" style="background: black;">
+</div>
 
