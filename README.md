@@ -1,1 +1,1 @@
-![](https://raw.github.com/ariofrio/ucleads-ucsb-logo/gh-pages/ucleads-ucsb-logo-blue.png)
+![](https://raw.github.com/ariofrio/ucleads-ucsb-logo/master/ucleads-ucsb-logo-blue.png)
